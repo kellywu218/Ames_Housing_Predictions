@@ -32,11 +32,11 @@ Here we explain the coefficients for the top five features that have the highest
 
 |Feature|Meaning|
 |---|---|
-|Overall Qual|For all else held equal, a one unit increase in overall quality yields a 6,916 increase in Sale Price|
-|Gr Liv Area|For all else held equal, a one unit increase in above grade living area yields a 5,306 increase in Sale Price| 
-|House Area|For all else held equal, a one unit increase in total house area yields a 4,766 increase in Sale Price| 
-|1st Flr SF|For all else held equal, a one unit increase in the first floor square footage yields a 4,159 increase in Sale Price| 
-|Year Built|For all else held equal, a one unit increase in the year built yields a 3,781 increase in Sale Price| 
+|Overall Qual|For all else held equal, a one unit increase in overall quality yields a 7,937 increase in Sale Price|
+|Gr Liv Area|For all else held equal, a one unit increase in above grade living area yields a 5,395 increase in Sale Price| 
+|House Area|For all else held equal, a one unit increase in total house area yields a 4,929 increase in Sale Price| 
+|1st Flr SF|For all else held equal, a one unit increase in the first floor square footage yields a 4,439 increase in Sale Price| 
+|Year Built|For all else held equal, a one unit increase in the year built yields a 4,373 increase in Sale Price| 
 
 Until the model can be refined with more features taken into consideration such as personal and outside factors, referring to the model and specific features when looking at the house are ideal. To calculate how much you would need in total, do a personal calculation of how much a moving truck would cost and the cost for parts of the house you would like to be repaired, rennovated, or installed. 
 
