@@ -23,20 +23,20 @@ However, our models aren't perfect because there are so many other factors invol
 
 Overall, our Ridge Regression model is quite accurate in predicting the sale price of a house in Ames, Iowa given numerous features of the house and then you can tack on a a couple hundred or thousand dollars to account for personal or outside factors. For the time being, when looking at buying a house in Ames look at the following features first because they have the highest impact on sale price: 
 - Overall Quality 
-- Above Grade Living Area
 - House Area
-- First Floor Square Footage
+- Above Grade Living Area
 - Year Built
+- Exterior Quality
 
 Here we explain the coefficients for the top five features that have the highest impact on sale price based on the Ridge Regression Model. We can interpret these numbers as follows: 
 
 |Feature|Meaning|
 |---|---|
-|Overall Qual|For all else held equal, a one unit increase in overall quality yields a 7,937 increase in Sale Price|
-|Gr Liv Area|For all else held equal, a one unit increase in above grade living area yields a 5,395 increase in Sale Price| 
-|House Area|For all else held equal, a one unit increase in total house area yields a 4,929 increase in Sale Price| 
-|1st Flr SF|For all else held equal, a one unit increase in the first floor square footage yields a 4,439 increase in Sale Price| 
-|Year Built|For all else held equal, a one unit increase in the year built yields a 4,373 increase in Sale Price| 
+|Overall Qual|For all else held equal, a one unit increase in overall quality yields a 8,339 increase in Sale Price|
+|House Area|For all else held equal, a one unit increase in total house area yields a 7,046 increase in Sale Price| 
+|Gr Liv Area|For all else held equal, a one unit increase in above grade living area yields a 6,717 increase in Sale Price|  
+|Year Built|For all else held equal, a one unit increase in the year built yields a 4,588 increase in Sale Price| 
+|Exter Qual|For all else held equal, a one unit increase in the first floor square footage yields a 4,458 increase in Sale Price|
 
 Until the model can be refined with more features taken into consideration such as personal and outside factors, referring to the model and specific features when looking at the house are ideal. To calculate how much you would need in total, do a personal calculation of how much a moving truck would cost and the cost for parts of the house you would like to be repaired, rennovated, or installed. 
 
